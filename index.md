@@ -46,8 +46,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 - Blockchain exercise 
 - Carico Immagine esempio
-![Image](C:\Users\tesot\Pictures\Fuoco.jpg)
 
+![Fuoco](C:\Users\tesot\Documents\GitHub\ttiziano.github.io\Fuoco.jpg)
 
 ```
 
