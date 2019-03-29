@@ -45,7 +45,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ```markdown
 
 - Blockchain exercise 
-- Carico Immagine esempio ![Image](C:\Users\tesot\Pictures\Fuoco)
+- Carico Immagine esempio
+![Image](C:\Users\tesot\Pictures\Fuoco)
 
 
 ```
