@@ -37,3 +37,17 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Sto facendo solo una prova del sito web in costruzione
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Link ai progetti scolastici
+
+### Esercizi in Python
+
+```markdown
+
+- Blockchain exercise 
+
+
+
+```
+
+
