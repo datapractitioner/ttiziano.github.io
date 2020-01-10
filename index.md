@@ -44,8 +44,10 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ```markdown
 
-- Blockchain exercise 
-- Carico Immagine esempio
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 ```
 
