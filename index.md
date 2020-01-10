@@ -32,7 +32,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ttiziano/ttiziano.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-Click on this link to visit the second page [second page](https://github.com/ttiziano/ttiziano.github.io/seconda_pagina.md)
+Click on this link to visit the second page [second page](https://github.com/ttiziano/ttiziano.github.io/seconda_pagina.md).
 
 
 ### Prova Sito Web
