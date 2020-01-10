@@ -49,6 +49,17 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
+
+# create a simple random 5x5 matrix in numpy 
+
+matrix = np.random.rand(5, 5)  # create a 5x5 matrix of random numbers
+matrix_1 = np.random.rand(5, 8)
+
+mult_mat = np.dot(matrix, matrix_1)
+
+# 
+
+
 ```
 
 ![Fuoco](./ttiziano.github.io/Fuoco.jpg)
